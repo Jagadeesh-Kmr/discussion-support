@@ -1,0 +1,48 @@
+/* Write your CSS code here */
+.home-bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 18px;
+  margin-left: 24px;
+}
+
+.home-content {
+  margin: 18px;
+  padding: 36px;
+  padding: 11px;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 65px;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.home-para {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #64748b;
+}
+
+.home-btn {
+  background-color: #0b69ff;
+  padding: 8px 24px 8px 24px;
+  border: none;
+  border-radius: 6px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 21px;
+  border-radius: 5px;
+  margin-top: 11px;
+}
